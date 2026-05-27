@@ -31,6 +31,9 @@ const BRAND = {
   // Assets
   logo:          "images/logo.png",
   favicon:       "images/logo.png",
+  logoWidth:     "120px",
+  logoHeight:    "auto",
+  logoStyle:     "border-radius: 50%; background: #F5E6D3; padding: 8px;",
   heroImage:     null,
 
   // Hours (CST/Chicago)
